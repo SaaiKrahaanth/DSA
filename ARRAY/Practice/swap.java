@@ -16,7 +16,7 @@ public class swap {
 
     }
 
-    static void swap(int ar[], int a, int b) {
+    public static void swap(int ar[], int a, int b) {
 
         int t = ar[a];
         ar[a] = ar[b];
